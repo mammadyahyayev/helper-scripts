@@ -14,10 +14,6 @@
 
 # Note: don't forget to put quotes around WI-FI name.
 
-#########################################
-#           HOW TO USE GUIDE?           #
-#########################################
-
 wifiname="$1"
 
 result=$(netsh wlan show profile name="$wifiname" key=clear | findstr Key)
