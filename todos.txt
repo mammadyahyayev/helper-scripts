@@ -1,0 +1,3 @@
+1. Create a shell script that will ask bunch of questions to create Linux process service for Java
+2. Change name of the repo and put GIT aliases
+3. Show how to put shell scripts to make them accessible from everywhere
